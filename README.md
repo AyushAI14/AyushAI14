@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2600&color=58A6FF&center=true&vCenter=true&width=680&lines=Hey%2C+I'm+Ayush+👋;Machine+Learning+%26+GenAI+Engineer;Building+Production-Ready+AI+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2600&color=58A6FF&center=true&vCenter=true&width=680&lines=Hey%2C+I'm+Ayush+👋;Data+Science+%26+GenAI+Engineer;Building+Production-Ready+AI+Systems" />
 
 <br/>
 
