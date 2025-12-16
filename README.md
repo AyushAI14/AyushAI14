@@ -18,7 +18,7 @@ I care about **clean architecture, reproducibility, and deployable systems**.
 
 ### ⚙️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,docker,scikit-learn,fastapi,langchain,aws,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,scikit-learn,pytorch,fastapi,aws,git,linux&theme=dark" />
 </p>
 
 ---
@@ -39,7 +39,13 @@ I care about **clean architecture, reproducibility, and deployable systems**.
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushAI14&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=AyushAI14&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushAI14&layout=compact&theme=github_dark&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=AyushAI14&theme=github-dark&hide_border=true" />
+
 </div>
 
 ---
