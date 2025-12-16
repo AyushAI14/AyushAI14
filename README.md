@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2400&color=00F7FF&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Ayush+👋;Data+Science+%26+GenAI+Engineer;Building+Neon-Grade+AI+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2400&color=00F7FF&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Ayush+👋;Data+Science+%26+GenAI+Engineer;Learning+and+Building+AI+Systems" />
 
 <br/>
 
@@ -12,10 +12,12 @@
 
 <h3 style="color:#C77DFF;">🌌 About Me</h3>
 
-I build **end-to-end ML & GenAI systems** focused on  
-🧠 **RAG** · 🤖 **AI Agents** · 📊 **NLP** · ⚙️ **MLOps**
+I enjoy working on **end-to-end ML and GenAI projects**, from data preparation to deployment.  
+My current interests include:
 
-I care about **clean architecture**, **reproducibility**, and **deployable systems** — not demos.
+🧠 **RAG systems** · 🤖 **AI agents** · 📊 **NLP** · ⚙️ **MLOps**
+
+I like keeping things **simple, reproducible, and practical**.
 
 ---
 
@@ -25,20 +27,20 @@ I care about **clean architecture**, **reproducibility**, and **deployable syste
   <img src="https://skillicons.dev/icons?i=python,postgres,docker,scikit-learn,pytorch,fastapi,aws,git,linux&theme=dark&perline=9" />
 </p>
 
-🧠 **Agentic Systems** · 🤖 **Autonomous Pipelines** · 🔗 **RAG Architectures**
+🧠 **Agentic Workflows** · 🔗 **RAG Pipelines** · 🛠 **ML Systems**
 
 ---
 
 <h3 style="color:#39FF14;">🚀 Pinned Projects</h3>
 
 - 🤖 **Datapilot-AI-Agent**  
-  Autonomous data-science agent system for dataset discovery, cleaning, and preparation  
+  An AI agent system for dataset discovery, cleaning, and preparation  
 
 - 🧾 **LLM-Powered Crypto Whitepaper Chatbot**  
-  Neon-fast RAG system for semantic search across crypto whitepapers  
+  A RAG-based chatbot for semantic search across crypto whitepapers  
 
 - 📈 **CrewAI Crypto Coin Analysis**  
-  Multi-agent workflow for crypto market research and signal generation  
+  A multi-agent workflow for crypto market analysis  
 
 📌 *Pinned on profile*
 
@@ -72,5 +74,5 @@ I care about **clean architecture**, **reproducibility**, and **deployable syste
 <br/>
 
 <p align="center" style="color:#39FF14;">
-⚡ Built in the dark. Deployed in production.
+⚡ Learning, building, and improving — one project at a time.
 </p>
