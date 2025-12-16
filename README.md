@@ -24,7 +24,7 @@ I like keeping things **simple, reproducible, and practical**.
 <h3 style="color:#00F7FF;">⚙️ Tech Stack</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,docker,scikit-learn,pytorch,fastapi,aws,git,linux&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,pytorch,fastapi,aws,git,linux&theme=dark&perline=9" />
 </p>
 
 🧠 **Agentic Workflows** · 🔗 **RAG Pipelines** · 🛠 **ML Systems**
@@ -74,5 +74,5 @@ I like keeping things **simple, reproducible, and practical**.
 <br/>
 
 <p align="center" style="color:#39FF14;">
-⚡ Learning, building, and improving — one project at a time.
+⚡ Learning, building, and improving .
 </p>
