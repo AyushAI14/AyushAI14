@@ -74,5 +74,5 @@ I like keeping things **simple, reproducible, and practical**.
 <br/>
 
 <p align="center" style="color:#39FF14;">
-⚡ Learning, building, and improving .
+⚡ Learning, building, and improving
 </p>
