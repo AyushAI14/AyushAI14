@@ -15,7 +15,7 @@
 I enjoy working on **end-to-end ML and GenAI projects**, from data preparation to deployment.  
 My current interests include:
 
-🧠 **RAG systems** · 🤖 **AI agents** · 📊 **NLP** · ⚙️ **MLOps**
+📈 **ML** · 📊 **NLP** · ⚙️ **MLOps** . 🧠 **RAG systems** · 🤖 **AI agents** 
 
 I like keeping things **simple, reproducible, and practical**.
 
@@ -69,6 +69,7 @@ I like keeping things **simple, reproducible, and practical**.
   <a href="https://www.linkedin.com/in/ayush-vishwakarma-a2450a28b/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
+    <a href="https://www.kaggle.com/ayushvishwakarma14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@pysolanki" height="30" width="40" /></a>
 </p>
 
 <br/>
