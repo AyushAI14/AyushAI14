@@ -69,11 +69,11 @@ I like keeping things **simple, reproducible, and practical**.
   <a href="https://www.linkedin.com/in/ayush-vishwakarma-a2450a28b/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
-  <a href="https://www.kaggle.com/ayushvishwakarma14">
-  <img src="https://skillicons.dev/icons?i=kaggle&theme=dark" />
+   <a href="https://www.kaggle.com/ayushvishwakarma14">
+    <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />
   </a>
   <a href="https://leetcode.com/u/ayushaiml14/">
-  <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" />
+    <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" />
   </a>
 </p>
 
