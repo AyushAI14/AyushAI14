@@ -7,7 +7,7 @@
 
 <!-- FUTURISTIC TOP BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=70&section=header&text=Ayush%20AI%20Hub&fontSize=40&fontColor=000000&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=70&section=header&text=Ayush%20Vishwakarma&fontSize=40&fontColor=000000&animation=twinkling"/>
 </div>
 
 <!-- GLOW BORDER WRAPPER -->
