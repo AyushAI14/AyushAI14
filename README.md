@@ -1,35 +1,27 @@
-<!-- GLOBAL FONT -->
-<style>
-  body {
-    font-family: "Times New Roman", serif;
-  }
-</style>
-
-<!-- FUTURISTIC TOP BANNER -->
+<!-- TOP NAME BANNER IN TIMES NEW ROMAN -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=70&section=header&text=Ayush%20Vishwakarma&fontSize=40&fontColor=000000&animation=twinkling"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=40&duration=2500&pause=600&color=00F7FF&center=true&vCenter=true&width=900&lines=Ayush+Vishwakarma" />
 </div>
-
-<!-- GLOW BORDER WRAPPER -->
-<div style="border: 3px solid #00F7FF; padding: 25px; border-radius: 20px; box-shadow: 0px 0px 20px #00F7FF;">
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2400&color=00F7FF&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Ayush+👋;Data+Science+%26+GenAI+Engineer;Learning+and+Building+AI+Systems" />
 
 <br/>
 
-<!-- ANIMATED BADGE SET -->
+<!-- PROFILE BADGES -->
+<div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=AyushAI14&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/-AI%20Engineer-39FF14?style=for-the-badge&logo=python&logoColor=black&animation=glow"/>
-<img src="https://img.shields.io/badge/-Data%20Scientist-FF6EC7?style=for-the-badge&animation=pulse"/>
+<img src="https://img.shields.io/badge/-AI%20Engineer-39FF14?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/-Data%20Scientist-FF6EC7?style=for-the-badge"/>
 
 </div>
 
-<br/>
+<br/><br/>
 
-<h3 style="color:#C77DFF;">🌌 About Me</h3>
+
+<!-- ABOUT HEADING -->
+<h3 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=28&duration=2000&color=C77DFF&width=450&lines=🌌+About+Me" />
+</h3>
 
 I enjoy working on **end-to-end ML and GenAI projects**, from data preparation to deployment.  
 My current interests include:
@@ -38,9 +30,12 @@ My current interests include:
 
 I like keeping things **simple, reproducible, and practical**.
 
-<hr style="border: 1px solid #00F7FF;"/>
+---
 
-<h3 style="color:#00F7FF;">⚙️ Tech Stack</h3>
+<!-- TECH STACK -->
+<h3 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=28&duration=2000&color=00F7FF&width=450&lines=⚙️+Tech+Stack" />
+</h3>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,postgres,docker,pytorch,fastapi,aws,git,linux&theme=dark&perline=9" />
@@ -48,9 +43,12 @@ I like keeping things **simple, reproducible, and practical**.
 
 🧠 **Agentic Workflows** · 🔗 **RAG Pipelines** · 🛠 **ML Systems**
 
-<hr style="border: 1px solid #00F7FF;"/>
+---
 
-<h3 style="color:#39FF14;">🚀 Pinned Projects</h3>
+<!-- PROJECTS -->
+<h3 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=28&duration=2000&color=39FF14&width=500&lines=🚀+Pinned+Projects" />
+</h3>
 
 - 🤖 **Datapilot-AI-Agent**  
   An AI agent system for dataset discovery, cleaning, and preparation  
@@ -63,9 +61,12 @@ I like keeping things **simple, reproducible, and practical**.
 
 📌 *Pinned on profile*
 
-<hr style="border: 1px solid #00F7FF;"/>
+---
 
-<h3 style="color:#FF6EC7;">📊 GitHub Stats</h3>
+<!-- GITHUB STATS -->
+<h3 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=28&duration=2000&color=FF6EC7&width=450&lines=📊+GitHub+Stats" />
+</h3>
 
 <div align="center">
 
@@ -77,9 +78,12 @@ I like keeping things **simple, reproducible, and practical**.
 
 </div>
 
-<hr style="border: 1px solid #00F7FF;"/>
+---
 
-<h3 style="color:#00F7FF;">🤝 Connect</h3>
+<!-- CONTACT -->
+<h3 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=28&duration=2000&color=00F7FF&width=450&lines=🤝+Connect" />
+</h3>
 
 <p align="left">
   <a href="https://github.com/AyushAI14">
@@ -102,7 +106,4 @@ I like keeping things **simple, reproducible, and practical**.
 ⚡ Learning, building, and improving
 </p>
 
-</div>
-
-<!-- BOTTOM NEON BORDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=25&section=footer"/>
+<br/>
