@@ -64,11 +64,25 @@ I like keeping things **simple, reproducible, and practical**.
 ---
 
 <!-- GITHUB STATS -->
+<h3 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=28&duration=2000&color=FF6EC7&width=450&lines=📊+GitHub+Stats" />
+</h3>
 
-<a href="https://github.com/AyushAI14">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyushAI14&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D0D0D&title_color=00F7FF&icon_color=39FF14&text_color=C77DFF&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushAI14&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=00F7FF&text_color=C77DFF" />
-</a>
+<div align="center">
+
+<!-- Row 1: Stats + Languages (using different reliable API instance) -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyushAI14&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=00F7FF&icon_color=39FF14&text_color=C77DFF&hide=contribs&count_private=true&rank_icon=percentile&card_width=400" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushAI14&layout=compact&langs_count=6&hide_border=true&bg_color=0D0D0D&title_color=00F7FF&text_color=C77DFF&hide=jupyter+notebook" />
+
+<br/><br/>
+
+<!-- Row 2: Streak (demolab is most stable for streaks) -->
+<img src="https://streak-stats.demolab.com/?user=AyushAI14&hide_border=true&background=0D0D0D&ring=00F7FF&fire=39FF14&currStreakLabel=C77DFF&sideLabels=C77DFF&dates=888888&currStreakNum=00F7FF&sideNums=39FF14&card_width=600" />
+
+<br/><br/>
+
+<!-- Row 3: Activity Graph (most reliable graph service) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushAI14&bg_color=0D0D0D&color=C77DFF&line=00F7FF&point=39FF14&area=true&area_color=00F7FF&hide_border=true" width="92%" />
 
 <br/><br/>
 
