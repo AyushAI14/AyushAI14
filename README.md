@@ -65,7 +65,6 @@ I like keeping things **simple, reproducible, and practical**.
 
 <!-- GITHUB STATS -->
 
-<!-- Stats Card -->
 <a href="https://github.com/AyushAI14">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyushAI14&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D0D0D&title_color=00F7FF&icon_color=39FF14&text_color=C77DFF&rank_icon=github" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushAI14&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=00F7FF&text_color=C77DFF" />
