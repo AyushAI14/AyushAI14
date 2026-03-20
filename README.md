@@ -85,19 +85,6 @@ I like keeping things **simple, reproducible, and practical**.
 
 <br/><br/>
 
-<!-- Contribution Graph -->
-<a href="https://github.com/AyushAI14">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushAI14&bg_color=0D0D0D&color=C77DFF&line=00F7FF&point=39FF14&area=true&area_color=00F7FF20&hide_border=true&radius=6" width="92%" />
-</a>
-
-<br/><br/>
-
-<!-- Trophy -->
-<a href="https://github.com/AyushAI14">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyushAI14&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6" width="92%" />
-</a>
-
-</div>
 
 ---
 
