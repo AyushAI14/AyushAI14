@@ -81,18 +81,6 @@ I like keeping things **simple, reproducible, and practical**.
 
 <br/><br/>
 
-<!-- Row 3: Activity Graph (most reliable graph service) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushAI14&bg_color=0D0D0D&color=C77DFF&line=00F7FF&point=39FF14&area=true&area_color=00F7FF&hide_border=true" width="92%" />
-
-<br/><br/>
-
-<!-- Streak Stats -->
-<a href="https://github.com/AyushAI14">
-  <img src="https://streak-stats.demolab.com/?user=AyushAI14&hide_border=true&background=0D0D0D&ring=00F7FF&fire=39FF14&currStreakLabel=C77DFF&sideLabels=C77DFF&dates=888888&currStreakNum=00F7FF&sideNums=39FF14" />
-</a>
-
-<br/><br/>
-
 
 ---
 
