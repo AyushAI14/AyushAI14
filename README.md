@@ -70,11 +70,24 @@ I like keeping things **simple, reproducible, and practical**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AyushAI14&show_icons=true&hide_border=true&bg_color=000000&title_color=00F7FF&icon_color=39FF14&text_color=C77DFF" />
+<!-- Row 1: Main Stats + Streak -->
+<img src="https://github-readme-stats.vercel.app/api?username=AyushAI14&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=00F7FF&icon_color=39FF14&text_color=C77DFF&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=AyushAI14&hide_border=true&background=0D0D0D&ring=00F7FF&fire=39FF14&currStreakLabel=C77DFF&sideLabels=C77DFF&dates=888888&currStreakNum=00F7FF&sideNums=39FF14" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushAI14&layout=compact&hide_border=true&bg_color=000000&title_color=00F7FF&text_color=C77DFF" />
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=AyushAI14&hide_border=true&background=000000&ring=00F7FF&fire=39FF14&currStreakLabel=C77DFF" />
+<!-- Row 2: Top Languages + Activity Graph -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushAI14&layout=donut&hide_border=true&bg_color=0D0D0D&title_color=00F7FF&text_color=C77DFF&langs_count=8" height="200"/>
+
+<br/>
+
+<!-- Row 3: Activity Graph (full width) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushAI14&bg_color=0D0D0D&color=C77DFF&line=00F7FF&point=39FF14&area=true&area_color=00F7FF&hide_border=true" width="95%"/>
+
+<br/>
+
+<!-- Row 4: Trophy Showcase -->
+<img src="https://github-profile-trophy.vercel.app/?username=AyushAI14&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="95%"/>
 
 </div>
 
