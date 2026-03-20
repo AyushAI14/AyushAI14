@@ -64,11 +64,6 @@ I like keeping things **simple, reproducible, and practical**.
 ---
 
 <!-- GITHUB STATS -->
-<h3 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=28&duration=2000&color=FF6EC7&width=450&lines=📊+GitHub+Stats" />
-</h3>
-
-<div align="center">
 
 <!-- Stats Card -->
 <a href="https://github.com/AyushAI14">
